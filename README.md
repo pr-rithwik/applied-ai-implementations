@@ -11,6 +11,7 @@ Each folder contains working code, algorithm rationale, and review notes
 | Netflix Collaborative Filtering | KNN, NMF, SVD, EM | [recommendation-systems/netflix-collab-filter](./recommendation-systems/netflix-collab-filter/) |  |
 | Chip Signal Validation | LSTM | [time-series/chip-lstm-signal](./time-series/chip-lstm-signal/) |  |
 | Google ADK Agent | LLM Agent | [llm-agents/google-adk-agent](./llm-agents/google-adk-agent/) | 🔄 In Progress |
+| Sentiment Analysis | LLM (GPT-3.5), TF-IDF + LR | [nlp/sentiment-analysis](./nlp/sentiment-analysis/) | 🔄 In Progress |
 
 ## Structure
 ```
